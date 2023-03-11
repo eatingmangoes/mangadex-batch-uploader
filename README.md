@@ -40,4 +40,5 @@ have the chapters in the directory with the folder names being the chapter numbe
         ├── 012.jpg
         ├── 013.jpg
         ├── 014.png
-        └── 015.png```
+        └── 015.png
+ ```
