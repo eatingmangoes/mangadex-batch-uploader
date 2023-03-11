@@ -5,7 +5,7 @@ If using a mac, edit line 34
 
 have the chapters in the directory with the folder names being the chapter number. eg: 73 and 74 are the chapter numbers
 
-.
+```.
 ├── batchuploader.py
 └── Directory_in_line_25
     ├── 73
@@ -40,4 +40,4 @@ have the chapters in the directory with the folder names being the chapter numbe
         ├── 012.jpg
         ├── 013.jpg
         ├── 014.png
-        └── 015.png
+        └── 015.png```
