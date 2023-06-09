@@ -1,7 +1,7 @@
 A very simple script to batch upload chapters to mangadex using python.
 
-Update lines 7,8,17,19,23
-If using a mac, edit line 33
+Update lines 8,9,17,19,23
+If using a mac, edit line 33 and 36
 
 Optional : If there's a volume number, change None to the volume number in line 39
 
@@ -44,3 +44,5 @@ have the chapters in the directory with the folder names being the chapter numbe
         ├── 014.png
         └── 015.png
  ```
+Changelog:
+09/06/2023 : Added Auto image slicing for long webtoons.
