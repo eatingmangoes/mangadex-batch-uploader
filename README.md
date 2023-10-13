@@ -5,7 +5,7 @@ If using a mac, edit line 33 and 36
 
 Optional : If there's a volume number, change None to the volume number in line 39
 
-have the chapters in the directory with the folder names being the chapter number. eg: 73 and 74 are the chapter numbers
+have the chapters in the directory with the folder names being the chapter number. eg: 73 and 74 are the chapter numbers.
 
 ```.
 ├── batchuploader.py
